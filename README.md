@@ -11,7 +11,7 @@ Aficiones:
  - Ver películas
   - Ir al gimnasio
 
-- Deportes practicados:
+ Deportes practicados:
 1. Futbol [x]
 2. Voleibol [ ]
 3. Tenis [x]
