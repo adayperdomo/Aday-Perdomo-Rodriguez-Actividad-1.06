@@ -8,8 +8,9 @@ Lugar de residencia: ~~Playa honda~~ Arrecife
 
 Aficiones: 
 - Jugar videojuegos
-- Ver películas
-- Ir al gimnasio
+ - Ver películas
+  - Ir al gimnasio
+
 - Deportes practicados:
 1. Futbol [x]
 2. Voleibol [ ]
