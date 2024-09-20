@@ -53,8 +53,8 @@ Digitalización         | 9
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 |:-----:|:------:|:---------:|:------:|:-------:|
 |  ETS  | PRO    |    BAE    | LND    | LND     |
-|  IKL  | PRO    |    IKL    | LND    | PRO     |
-|  LND  | BAE    |    BAE    | SSF    | BAE     |
+|  IKL  | PRO    |    BAE    | LND    | PRO     |
+|  LND  | BAE    |    IKL    | SSF    | BAE     |
 |  PRO  | ETS    |    ETS    | ITK    | BAE     |
 |  SSF  | IKL    |    PRO    | PRO    | SSF     |
 |  SSF  | SSF    |    DJK    | DJ     | ITK     |
