@@ -1,4 +1,4 @@
-# Aday-Perdomo-Rodr-guez-Actividad-1.06
+# Aday-Perdomo-Rodríguez-Actividad-1.06
 
 Nombre: *Aday*
 Apellidos: **Perdomo Rodríguez**
