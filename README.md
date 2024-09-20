@@ -73,10 +73,13 @@ Profesor de la asignatura.[^1]
 
 [^1]: Javier.
 
+- Operaciones matemáticas:
 
+ $f(x)=(x+a)(x+b)$
 
-
-
+$$
+u=\frac{-y}{x^{2}+y^{2}}\,,\quad v=\frac{x}{x^{2}+y^{2}}\,,\quad\text{and}\quad w=0\,.
+$$
 
 
 
