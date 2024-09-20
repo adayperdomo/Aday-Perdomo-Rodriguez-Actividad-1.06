@@ -21,4 +21,79 @@ Aficiones:
 
 Instuto: IES Haría [Haría](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)
 - Animal favorito: ![Perezoso](https://static.nationalgeographicla.com/files/styles/image_3200/public/01-sloth-energy-nationalgeographic_1046424.jpg?w=1900&h=1267)
+- Postre favorto ![Tarta de queso](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNP4fM3WThp7M-LSW8UyJ5ZDloeAx8jWHCqQ&usqp=CAU =400x300)
+- Asignatura favrita `Programación`:
+ - Ejemmplos:
+```
+print("Hola mundo")
+```
+```javascript
+<script>
+function sumar(sum1, sum2)
+{
+    let resultado;
+    resultado = sum1 + sum2;
+    return resultado;
+}
+alert("4 + 10 = "+ sumar(4, 10) );
+/*Mostrar resultado*/
+</script>
+```
+- Notas esperadas este curso:
+
+Asignatura             | Nota
+-----------------------| -----
+Entornos de desarrollo | 8
+Lenguaje de marcas     | 7
+Programación           | 7
+Digitalización         | 9
+
+- Horario de clase:
+
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+|:-----:|:------:|:---------:|:------:|:-------:|
+|  ETS  | PRO    |    BAE    | LND    | LND     |
+|  IKL  | PRO    |    IKL    | LND    | PRO     |
+|  LND  | BAE    |    BAE    | SSF    | BAE     |
+|  PRO  | ETS    |    ETS    | ITK    | BAE     |
+|  SSF  | IKL    |    PRO    | PRO    | SSF     |
+|  SSF  | SSF    |    DJK    | DJ     | ITK     |
+
+
+Programación
+: La programación es el acto de programar, es decir, organizar una secuencia de pasos ordenados a seguir para hacer cierta cosa.
+
+Autor
+: Editorial Etecé
+
+- Mi segunda asignatura favorita es LND
+*[LND]: Lenguaje de Marcas
+
+Profesor de la asignatura.[^1]
+
+[^1]: Javier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
