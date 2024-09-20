@@ -22,7 +22,7 @@ Aficiones:
 Instuto: IES Haría [Haría](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)
 - Animal favorito: ![Perezoso](https://static.nationalgeographicla.com/files/styles/image_3200/public/01-sloth-energy-nationalgeographic_1046424.jpg?w=1900&h=1267)
 - Postre favorito: ![Tarta de queso](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNP4fM3WThp7M-LSW8UyJ5ZDloeAx8jWHCqQ&usqp=CAU =400x300)
-- Asignatura favorita `Programación`:
+- Asignatura favorita: `Programación`
  - Ejemmplos:
 ```
 print("Hola mundo")
