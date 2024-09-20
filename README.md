@@ -80,23 +80,3 @@ Profesor de la asignatura.[^1]
 $$
 u=\frac{-y}{x^{2}+y^{2}}\,,\quad v=\frac{x}{x^{2}+y^{2}}\,,\quad\text{and}\quad w=0\,.
 $$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
